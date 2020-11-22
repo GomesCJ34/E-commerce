@@ -1,0 +1,25 @@
+.navbar-light .navbar-brand {
+    color: #209f84;
+    font-size: 2em;
+    margin-top: -0.5em;
+}
+
+.items-color{
+    background-color:#209f84;
+    color: white;
+}
+.nav-item{
+    margin-left: 1em;
+
+}
+.navbar-light .navbar-nav{
+  margin-left: 20px;
+
+}
+
+
+}
+#search-bar{
+    width:20em ;
+}
+
